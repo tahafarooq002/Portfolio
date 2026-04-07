@@ -11,7 +11,7 @@ I build reliable software through strong AI practices and develop intelligent AI
 ---
 
 ## 📄 Download CV
-📌 [Download CV](Taha Farooq CV (AI & ML).pdf)
+📌 https://github.com/tahafarooq002/Portfolio/blob/main/Taha%20Farooq%20CV%20(AI%20%26%20ML).pdf
 
 ---
 
