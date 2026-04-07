@@ -6,12 +6,12 @@ I build reliable software through strong AI practices and develop intelligent AI
 ---
 
 ## 🌐 Portfolio Website
-🔗 [View Portfolio](https://tahafarooq002.github.io/portfolio/)
+🔗 [Taha Farooq Portfolio](https://tahafarooq002.github.io/Portfolio/)
 
 ---
 
 ## 📄 Download CV
-📌 https://github.com/tahafarooq002/Portfolio/blob/main/Taha%20Farooq%20CV%20(AI%20%26%20ML).pdf
+📌 [Taha Farooq AI/ML CV](https://github.com/tahafarooq002/Portfolio/blob/main/Taha%20Farooq%20CV%20(AI%20%26%20ML).pdf)
 
 ---
 
